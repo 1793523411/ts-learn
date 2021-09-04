@@ -7,3 +7,5 @@ tsbase 为基础知识学习，该目下本地安装了 ts-node 和 typescript,�
 阅读 Typescript 入门教程
 
 阅读 深入理解 Typescript
+
+*该仓库由于某些原因被迫删除一次·····*
