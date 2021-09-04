@@ -1,0 +1,10 @@
+node_modules
+
+package-lock.json
+
+yarn.lock
+
+yarn-error.log
+
+./ts-Lnew/nest
+./ts-Lnew/rxjs-learn/rxjs
